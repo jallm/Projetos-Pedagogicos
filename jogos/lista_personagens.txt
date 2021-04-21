@@ -1,13 +1,15 @@
+Filogenia de personagens do jogo.
+
 • Chironomidae:
 
     - Reino:          Animalia
     - Filo:           Arthropoda
     - Classe:         Insecta
-    - Ordem:        	Diptera
-    - Subordem:     	Nematocera
-    - Infraordem:   	Culicomorpha
-    - Superfamília:  	Chironomoidea
-    - Familia:       	Chironomidae (Erichson, 1841)
+    - Ordem:          Diptera
+    - Subordem:       Nematocera
+    - Infraordem:     Culicomorpha
+    - Superfamília:   Chironomoidea
+    - Familia:        Chironomidae (Erichson, 1841)
     
 • Daphnia:
 
@@ -15,24 +17,24 @@
     - Filo:           Arthropoda
     - Subfilo:        Crustacea
     - Classe:         Branchiopoda
-    - Ordem:        	Cladocera
+    - Ordem:          Cladocera
     - Familia:        Daphniidae
     - Gênero:         Daphnia (Müller, 1785)
 
 • Hirudinea:
 
     - Reino:           Animalia
-    - Filo: 	         Annelida
+    - Filo: 	       Annelida
     - Classe:          Clitellata
     - Subclasse:       Hirudinea (Lamarck, 1818) 
 
 • Ninfa de Libélula:
 
     - Reino:           Animalia
-    - Filo:         	 Arthropoda
+    - Filo:            Arthropoda
     - Subfilo:     	   Hexapoda
     - Classe: 	       Insecta
-    - Subclasse: 	     Pterygota
+    - Subclasse: 	   Pterygota
     - Superordem:      Odonatoptera
     - Ordem:           Odonata (Fabricius, 1793)
 
@@ -49,4 +51,4 @@
     - Reino:          Animalia
     - Filo:           Arthropoda
     - Classe:         Insecta
-    - Ordem:        	Trichoptera (Kirby, 1813)
+    - Ordem:          Trichoptera (Kirby, 1813)
