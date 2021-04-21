@@ -1,0 +1,27 @@
+Jogo Disponível em:
+
+https://scratch.mit.edu/projects/466624383/
+
+
+Intruções:
+
+- Jogue em tela cheia para uma melhor resolução;
+
+- Ao iniciar, serão dispostos enigmas;
+
+- Cada hipercubo representa a localização de um animal de meio aquático;
+
+- Existem dois animais de cada tipo;
+
+- Você progredirá a medida que consegue travar um par do mesmo animal;
+
+- Ao preencher todas as localidades, o jogo estará finalizado.  
+
+Sobre os animais:
+- Preste atenção nas características individuais de cada organismo;
+- Todos tem suas singularidades, e com o tempo você será capaz de diferencia-los com facilidade!
+
+Agradecimentos:
+
+- Gostaria de agradecer a Universidade Federal de Pelotas por contribuir para o desenvolvimento de pessoas.
+- Grande contribuição por parte de Alexandre Neutzling!
