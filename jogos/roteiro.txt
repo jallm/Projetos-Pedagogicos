@@ -1,0 +1,43 @@
+cenario == campo
+
+Ao observarmos um rio de longe,
+temos a impressão de que há apenas pedras e água, e alguns peixinhos.
+Quando olhamos de perto, com os instrumentos adequados descobrimos
+uma incrível diversidade de organismos.
+
+Vamos conhecer o rio da região para coletar um pouco de água
+e levar para casa para observarmos mais de perto.
+
+cenario == rio
+
+pronto, coletamos nossa amostra de uma área profunda com bastante folhas e galhos,
+o ambiente ideal para seres pequenos viverem. 
+
+Agora vamos para um local 
+mais apropriado para obervarmos o que tem nesta água.
+
+Cenario == lab;
+
+O equipamento mais adequado para esta tarefa seria o estereomicroscópio,
+mas com uma adaptação no celular podemos fazer ele observar em escalas 
+bastante reduzidas!
+
+Vamos dar uma olhada?
+
+cenario == jogo da memoria
+
+tutorial do jogo da memoria
+
+Agora vamos descobrir novos organismos que nunca vimos antes!
+
+O primeiro passo para identifica-los é saber suas caracteriscas,
+como forma ou aparência.
+
+Ao finalizar o jogo da memória, será pedido que escolha os 3 organismos que mais
+lhe despertaram curiosidade, para obterem informações detalhadas dos mesmos.
+
+Para a última atividade, serão formadas duplas de alunos e para cada
+dupla será sorteado um organismo para que apresentem um seminário sobre
+o mesmo. Posição taxonômica, fonte de energia, ciclo de desenvolvimento.
+
+fim
