@@ -1,18 +1,52 @@
-Indivíduos:
-• Daphinia;
-• Copepoda;
-• Ostracoda;
-• plathelminto;
-• pomaceae
-• Chironomideo;
-• Hirudinea;
-• Trichoptera;
-• gerridae;
-• Belostomatidae;
-• corixidae;
-• tardigrado;
-• Euglena
-• Paramecium
-• larva lambari;
-• girino rio
-• 
+â€¢ Chironomidae:
+
+    - Reino:          Animalia
+    - Filo:           Arthropoda
+    - Classe:         Insecta
+    - Ordem:        	Diptera
+    - Subordem:     	Nematocera
+    - Infraordem:   	Culicomorpha
+    - SuperfamÃ­lia:  	Chironomoidea
+    - Familia:       	Chironomidae (Erichson, 1841)
+    
+â€¢ Daphnia:
+
+    - Reino:          Animalia
+    - Filo:           Arthropoda
+    - Subfilo:        Crustacea
+    - Classe:         Branchiopoda
+    - Ordem:        	Cladocera
+    - Familia:        Daphniidae
+    - GÃªnero:         Daphnia (MÃ¼ller, 1785)
+
+â€¢ Hirudinea:
+
+    - Reino:           Animalia
+    - Filo: 	         Annelida
+    - Classe:          Clitellata
+    - Subclasse:       Hirudinea (Lamarck, 1818) 
+
+â€¢ Ninfa de LibÃ©lula:
+
+    - Reino:           Animalia
+    - Filo:         	 Arthropoda
+    - Subfilo:     	   Hexapoda
+    - Classe: 	       Insecta
+    - Subclasse: 	     Pterygota
+    - Superordem:      Odonatoptera
+    - Ordem:           Odonata (Fabricius, 1793)
+
+â€¢ Girino de RÃ£:
+
+    - Reino:  	       Animalia
+    - Filo:            Chordata
+    - Classe:          Amphibia
+    - Ordem:   	       Anura
+    - FamÃ­lia:    	   Ranidae (Rafinesque, 1814)
+
+â€¢ Trichoptera:
+
+    - Reino:          Animalia
+    - Filo:           Arthropoda
+    - Classe:         Insecta
+    - Ordem:        	Trichoptera (Kirby, 1813)
